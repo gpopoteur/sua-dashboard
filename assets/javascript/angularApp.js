@@ -1,0 +1,1 @@
+angular.module('app', ['ngRoute', 'ngAnimate', 'ngProgress', 'ui.calendar', 'angular-loading-bar']);

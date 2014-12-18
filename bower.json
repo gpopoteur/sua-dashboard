@@ -1,0 +1,17 @@
+{
+  "name": "theme",
+  "dependencies": {
+    "bootstrap": "~3.1.1",
+    "ngprogress": "~1.0.4",
+    "angular-animate": "~1.2.16",
+    "angular-route": "~1.2.16",
+    "angular-ui-calendar": "latest",
+    "angular": "~1.2.16",
+    "underscore": "~1.6.0",
+    "momentjs": "~2.6.0",
+    "angular-loading-bar": "~0.6.0"
+  },
+  "resolutions": {
+    "jquery": ">= 1.9.0"
+  }
+}

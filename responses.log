@@ -1,0 +1,80 @@
+body { timeStamp: '2014/10/29 12:53:49.451',
+  status: 'bisON',
+  device: 'DEV-CLIMATIZADOR',
+  data: 'true',
+  action: 'biaON',
+  type: 'togglebistate',
+  devfunc: 'DF-VENTILADOR' }
+POST /api/callback 200 6ms
+api callback
+body { timeStamp: '2014/10/29 12:53:49.451',
+  status: 'bisON',
+  device: 'DEV-CLIMATIZADOR',
+  data: 'true',
+  action: 'biaON',
+  type: 'togglebistate',
+  devfunc: 'DF-VENTILADOR' }
+POST /api/callback 200 2ms
+GET / 200 81ms - 1.84kb
+GET /assets/stylesheets/application.min.css 304 2ms
+GET /assets/javascript/application.min.js 304 1ms
+connection
+{ my: 'data' }
+api callback
+body { timeStamp: '2014/10/29 12:54:07.063',
+  status: 'bisOFF',
+  device: 'DEV-CLIMATIZADOR',
+  data: 'false',
+  action: 'biaOFF',
+  type: 'togglebistate',
+  devfunc: 'DF-VENTILADOR' }
+POST /api/callback 200 1ms
+api callback
+body { timeStamp: '2014/10/29 12:54:07.063',
+  status: 'bisOFF',
+  device: 'DEV-CLIMATIZADOR',
+  data: 'false',
+  action: 'biaOFF',
+  type: 'togglebistate',
+  devfunc: 'DF-VENTILADOR' }
+POST /api/callback 200 2ms
+api callback
+body { timeStamp: '2014/10/29 12:55:53.982',
+  status: 'sensREADY',
+  device: 'DEV-NFC',
+  data: 'tagTrianguloAzul',
+  action: 'anumaREAD',
+  type: 'alphanumeric',
+  devfunc: 'DF-NFC.TAG.READER' }
+POST /api/callback 200 1ms
+GET / 304 42ms
+GET /assets/stylesheets/application.min.css 304 1ms
+GET /assets/javascript/application.min.js 304 2ms
+connection
+{ my: 'data' }
+api callback
+body { timeStamp: '2014/10/29 12:56:15.702',
+  status: 'sensREADY',
+  device: 'DEV-NFC',
+  data: 'tagTrianguloVerde',
+  action: 'anumaREAD',
+  type: 'alphanumeric',
+  devfunc: 'DF-NFC.TAG.READER' }
+POST /api/callback 200 2ms
+api callback
+body { timeStamp: '2014/10/29 12:57:36.665',
+  status: 'sensREADY',
+  device: 'DEV-SENSORS.PORTA',
+  data: '20',
+  action: 'numaREAD',
+  type: 'numeric',
+  devfunc: 'DF-SENSOR.LUZ' }
+POST /api/callback 200 1ms
+api callback
+body { timeStamp: '2014/10/29 12:57:55.328',
+  status: 'sensREADY',
+  device: 'DEV-NFC',
+  data: 'tagCuadradoAzul',
+  action: 'anumaREAD',
+  type: 'alphanumeric',
+  devfunc: 'DF-NFC.TAG.READER' }

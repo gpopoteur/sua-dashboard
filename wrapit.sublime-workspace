@@ -1,0 +1,2056 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"FFF",
+				"FFFFFF"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"link",
+				"link	Tag"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"wom",
+				"women_onboard"
+			],
+			[
+				"wo",
+				"women_only_stats"
+			],
+			[
+				"pro",
+				"proportion_survivors"
+			],
+			[
+				"nm",
+				"number_passengers"
+			],
+			[
+				"numb",
+				"number_survived"
+			],
+			[
+				"as",
+				"astype"
+			],
+			[
+				"nu",
+				"number_passengers"
+			],
+			[
+				"csv",
+				"csv_file_object"
+			],
+			[
+				"create",
+				"createdPoll"
+			],
+			[
+				"crea",
+				"createdPoll"
+			],
+			[
+				"error",
+				"errorManager"
+			],
+			[
+				"Resp",
+				"Response"
+			],
+			[
+				"user",
+				"userAnswerCreated"
+			],
+			[
+				"ans",
+				"updatedAnswer"
+			],
+			[
+				"Credit",
+				"CreditCard"
+			],
+			[
+				"index",
+				"indexFile"
+			],
+			[
+				"inde",
+				"indexFile"
+			],
+			[
+				"cre",
+				"CreditCard"
+			],
+			[
+				"onv",
+				"onValidCard"
+			],
+			[
+				"tet",
+				"test_regex"
+			],
+			[
+				"leng",
+				"lengths"
+			],
+			[
+				"pol",
+				"pollController"
+			],
+			[
+				"Pol",
+				"PollModel"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"User",
+				"UserAnswer"
+			],
+			[
+				"created",
+				"createdAt"
+			],
+			[
+				"o",
+				"ObjectId"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"Ans",
+				"AnswerModel"
+			],
+			[
+				"Po",
+				"PollModel"
+			],
+			[
+				"comment",
+				"CommentModel"
+			],
+			[
+				"Com",
+				"CommentModel"
+			],
+			[
+				"Pos",
+				"PostModel"
+			],
+			[
+				"S",
+				"Schema"
+			],
+			[
+				"tanq",
+				"tanqueActual"
+			],
+			[
+				"up",
+				"updateTanqueVariables"
+			],
+			[
+				"tan",
+				"tanquesObj"
+			],
+			[
+				"g",
+				"graphData"
+			],
+			[
+				"upda",
+				"updateGraphVariable"
+			],
+			[
+				"va",
+				"variable"
+			],
+			[
+				"gra",
+				"graphVariable"
+			],
+			[
+				"update",
+				"updateVariable"
+			],
+			[
+				"varia",
+				"variablesObj"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"table",
+				"table-cell  (value)"
+			],
+			[
+				"wid",
+				"width:   (property)"
+			],
+			[
+				"tantq",
+				"TanqueData"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"client",
+				"clientId"
+			],
+			[
+				"drop",
+				"dropdownTransparency"
+			],
+			[
+				"dro",
+				"dropdownTransparency"
+			],
+			[
+				"dropd",
+				"dropdown_transparency"
+			],
+			[
+				"updategra",
+				"updateGraphVariable"
+			],
+			[
+				"tanque",
+				"tanques"
+			],
+			[
+				"grap",
+				"graphData"
+			],
+			[
+				"cha",
+				"chartConfig"
+			],
+			[
+				"rece",
+				"receiveData"
+			],
+			[
+				"p",
+				"photosViewModel"
+			],
+			[
+				"bo",
+				"bootstrap"
+			],
+			[
+				"js_b",
+				"js_backend"
+			],
+			[
+				"po",
+				"photos"
+			],
+			[
+				"margin-l",
+				"margin-left:   (property)"
+			],
+			[
+				"mr",
+				"margin-right"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/javascript/controllers/taskCtrl.js",
+			"settings":
+			{
+				"buffer_size": 1052,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/stylesheets/main.styl",
+			"settings":
+			{
+				"buffer_size": 8395,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/partials/typography.html",
+			"settings":
+			{
+				"buffer_size": 6313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/partials/icons.html",
+			"settings":
+			{
+				"buffer_size": 77528,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "ct to server: Unable to find the socket transport \"ssl\" - did you forget to enable it when you configured PHP? (24)\nbool(false)SMTP -> ERROR: Failed to connect to server: Unable to find the socket transport \"ssl\" - did you forget to enable it when you configured PHP? (16)\nMessage could not be sent.Mailer Error: SMTP Error: Could not connect to SMTP host.",
+			"settings":
+			{
+				"buffer_size": 356,
+				"line_ending": "Unix",
+				"name": "ct to server: Unable to find the socket transport"
+			}
+		},
+		{
+			"file": "libs/css/font-awesome.css",
+			"settings":
+			{
+				"buffer_size": 25197,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"iind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"ejs",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"",
+				"Bookmarks: Select Next"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"todo",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"prevew",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"se java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"IND",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"makrdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mak",
+				"Set Syntax: Makefile"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 655.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/public/partials/tasks.html",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/src/javascript/controllers/dashboardCtrl.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/wrapit.sublime-project",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/src/javascript/controllers/navCtrl.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/public/partials/dashboard.html",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/public/partials/charts.html",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/src/javascript/controllers/appCtrl.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/src/stylesheets/main.styl",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/public/assets/javascript/application.min.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/app.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/public/partials/stats.html",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/public/partials/elements.html",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/src/javascript/directives/morris_chart_directive.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/Gruntfile.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/libs/js/raphael.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/views/dashboard.ejs",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/src/javascript/directives/a_directive.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/src/javascript/controllers/task_controller.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/public/partials/tables.html",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/views/layout.ejs",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/source-map/test/source-map/test-array-set.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/node_modules/bower/node_modules/tmp/test-all.sh",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/public/partials/forms.html",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/public/partials/typography.html",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/public/partials/icons.html",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/package.json",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/src/javascript/app.js",
+		"/Users/GrmnPptr/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/GrmnPptr/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/node_modules/bower/node_modules/mout/object/forOwn.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/src/stylesheets/main.css",
+		"/Users/GrmnPptr/.zshrc",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/src/javascript/controllers/nav_controller.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/bower.json",
+		"/Users/GrmnPptr/Documents/Apps/templates/admin-flatify-angular.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/locals.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/src/javascript/controllers/app_controller.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/node_modules/bower/node_modules/inquirer/node_modules/through/LICENSE.APACHE2",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/node_modules/bower/node_modules/decompress-zip/download-test-assets.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/mozilla-ast.js",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/node_modules/ejs/Makefile",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/src/javascript/dashboard_controller.js",
+		"/Users/GrmnPptr/Dropbox/GP/bizz ideas/Theme CSS Framework Marketplace.md",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/public/assets/partials/elements.html",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/public/assets/partials/dashboard.html",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/public/assets/stylesheets/application.css",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/public/assets/stylesheets/application.min.css",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/public/index.html",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/index.html",
+		"/Users/GrmnPptr/Documents/Apps/templates/wrapit/controllers/HomeController.js",
+		"/Users/GrmnPptr/Library/Containers/it.bloop.airmail/Data/Library/Application Support/Airmail/Zy5wb3BvdGV1ckBnbWFpbC5jb20=/AttachmentsNg/CAKf0xV7vh=2ids3q8hV2Yyrnr_Mnci69k8RhcQvTu16tCnr6jg@mail.gmail.com/LOCALIZACION.kmz",
+		"/Users/GrmnPptr/Documents/Apps/Node/gpopoteur-ghost/core/server/controllers/frontend.js",
+		"/Users/GrmnPptr/Documents/Apps/Node/gpopoteur-ghost/core/server/views/content.hbs",
+		"/Users/GrmnPptr/Documents/Apps/Node/gpopoteur-ghost/node_modules/sinon/node_modules/buster-format/node_modules/buster-core/vendor/sinon/lib/sinon/util/fake_server_with_clock.js",
+		"/Users/GrmnPptr/Documents/Apps/Node/gpopoteur-ghost/core/server.js",
+		"/Users/GrmnPptr/Documents/Apps/Node/gpopoteur-ghost/core/client/tpl/reset.hbs",
+		"/Users/GrmnPptr/Documents/Apps/Node/gpopoteur-ghost/node_modules/matchdep/node_modules/resolve/lib/core.js",
+		"/Users/GrmnPptr/Documents/Apps/Node/gpopoteur-ghost/node_modules/blanket/test/helpers/console_runner.js",
+		"/Users/GrmnPptr/Documents/Apps/Node/gpopoteur-ghost/node_modules/grunt-contrib-clean/docs/clean-options.md",
+		"/Users/GrmnPptr/Documents/Apps/Node/gpopoteur-ghost/config.js",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/Gruntfile.js",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/filters.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/controllers/LoginController.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/routes.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/tests/APILoginTest.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/vendor/laravel/framework/src/Illuminate/Http/Response.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/public/css/bootstrap-responsive.css",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/views/emails/resetpassword.blade.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/readme.md",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/views/password/reset_password.blade.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/vendor/predis/predis/lib/Predis/Replication/ReplicationStrategy.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/vendor/laravel/framework/src/Illuminate/Cache/Repository.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/public/css/login.css",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/public/css/landing_old.css",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/node_modules/grunt-phpunit/LICENSE",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/controllers/AsyncController.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/controllers/APITokenController.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/tests/AsyncControllerTest.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/tests/APITokenTest.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/venubi/admin/config.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/venubi/config.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/venubi/vqmod/vqcache/vq2-admin_controller_common_header.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/venubi/system/engine/controller.php",
+		"/Users/GrmnPptr/Documents/Apps/Python/titanic/genderbasedmodel.csv",
+		"/Users/GrmnPptr/Documents/Apps/PHP/PhotoApp/Gruntfile.js",
+		"/Users/GrmnPptr/Documents/VDispatch/vdispatch-02082014/src/lct/vdispatch/net/HomeActivity.java",
+		"/Users/GrmnPptr/Documents/Apps/Node/GrandLiveServer/node_modules/mongoose/examples/population/population-options.js",
+		"/Users/GrmnPptr/Documents/Apps/Node/GrandLiveServer/package.json",
+		"/Users/GrmnPptr/.rvm/log/1397578830_ruby-2.0.0-p247/make.log",
+		"/Users/GrmnPptr/.rvm/log/1397566778_ruby-2.0.0-p247/remove.rubies.log",
+		"/Users/GrmnPptr/Documents/Notes/GMO/todo.todo.rd",
+		"/Users/GrmnPptr/Documents/Apps/Node/GrandLiveServer/models/errorManager.js",
+		"/Users/GrmnPptr/Documents/Apps/Node/GrandLiveServer/models/error_handler.js",
+		"/Users/GrmnPptr/Documents/Apps/Node/GrandLiveServer/node_modules/express/node_modules/mkdirp/test/umask_sync.js",
+		"/Users/GrmnPptr/Documents/Apps/Node/GrandLiveServer/api/controllers/UserController.js",
+		"/Users/GrmnPptr/Documents/Apps/Node/jquery-creditcard/node_modules/bower/node_modules/mout/lang/isNull.js",
+		"/Users/GrmnPptr/Documents/Apps/Node/jquery-creditcard/demo/index.html",
+		"/Users/GrmnPptr/Documents/Apps/PHP/laravel-admin/workbench/mariuzzo/security/src/Mariuzzo/Security/Models/Elegant.php",
+		"/Users/GrmnPptr/Documents/Apps/Node/GrandLiveServer/node_modules/express/node_modules/connect/lib/middleware/methodOverride.js",
+		"/Users/GrmnPptr/Documents/Apps/Node/GrandLiveServer/models/mongoose.js",
+		"/Users/GrmnPptr/Downloads/export.csv",
+		"/Users/GrmnPptr/Dropbox/GP Freelance/virtualmall.do/planscope_csv_nix.csv",
+		"/Users/GrmnPptr/Dropbox/GP Freelance/virtualmall.do/planscope_csv_win.csv",
+		"/Users/GrmnPptr/.zshrc.yadr",
+		"/Users/GrmnPptr/Documents/Apps/Java/AndroMDAGMO/soap-webservice/common/target/src/main/java/com/myjeeva/andromda/demo/exceptions/DeclaredException.java",
+		"/Users/GrmnPptr/Documents/Apps/Java/AndroMDAGMO/soap-webservice/m2eclipse.bat",
+		"/Users/GrmnPptr/Dropbox/spending/app/src/main/java/com/spending/utils/AndroidUtils.java",
+		"/Users/GrmnPptr/Documents/Apps/Node/GrandLiveServer/models/Answer.js",
+		"/Users/GrmnPptr/Dropbox/Berklee_Developers/Enlaces de Interes.md",
+		"/Users/GrmnPptr/Documents/Apps/Node/GrandLiveServer/api/controllers/PollController.js",
+		"/Users/GrmnPptr/Documents/Apps/Node/GrandLiveServer/config.json",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/assets/js/controllers/VerTanqueController.js",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/views/app/ver_tanque.blade.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/controllers/AppController.php",
+		"/Users/GrmnPptr/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/assets/js/partials/dateTimePicker.html",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/public/css/dataTables.css",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/assets/js/controllers/DashboardCtrl.js",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/views/app/dashboard.blade.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/controllers/HomeController.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/controllers/HistorialController.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/node_modules/grunt-contrib-concat/test/expected/handling_invalid_files",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/public/css/font-awesome.css",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/models/logs_alrm.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/start/local.php",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/node_modules/grunt-autoprefixer/node_modules/autoprefixer/lib/hacks/align-self.js",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/app/assets/js/factory/configFactory.js",
+		"/Users/GrmnPptr/Documents/Apps/PHP/tdnproduccion/node_modules/grunt/node_modules/rimraf/test/test-async.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 121.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"webkit",
+			";",
+			" 		",
+			"  ",
+			";",
+			"application.css",
+			"app/assets",
+			"');",
+			"grunt.loadNpmTasks('",
+			"[,]",
+			"\\s",
+			"[$]",
+			"\\s[^$]",
+			"\\s",
+			"\\t",
+			"\n			$",
+			"uploadProducts",
+			"upload",
+			"$this->user",
+			"Controller",
+			"$this->user",
+			"/home/timcheso/public_html/websites/localhost",
+			"venubi.com",
+			"\\",
+			"configur",
+			"$ ",
+			"sudo apt-get install",
+			"$",
+			" ",
+			" n",
+			"n ",
+			"n",
+			"equals",
+			"MCD(",
+			"MCD",
+			"longValue",
+			"element",
+			" ,",
+			" ,, ",
+			" , ",
+			"modules",
+			"jaxb2_commons",
+			"ObjectFactory",
+			"cxf",
+			"Message_key",
+			"descripcion",
+			"tanqueActual",
+			"varPrincipal",
+			"progreso().toFixed(2)",
+			"progreso",
+			"$scope.tanques",
+			"$scope.allTanques",
+			"updateGraphData",
+			"updateVariable",
+			"updateGraphData",
+			"updateData",
+			"$http",
+			"$http.",
+			"tanques",
+			"$scope.tanqueActual",
+			"tanqueActual.nivel",
+			"popoulatevar",
+			"allta",
+			"$scope.tanques",
+			"progreso",
+			"params",
+			"updateGraphData",
+			"$scope.variables",
+			"apply",
+			"updateVariable",
+			"graphVariableHistory",
+			"updategra",
+			"socket",
+			"$view->",
+			"var_key",
+			"{{",
+			"{{ ",
+			"tanque",
+			"graph_variables",
+			"chartConfig",
+			"estilos",
+			"deposito_panel",
+			"tab_content",
+			"updateData",
+			"socketio",
+			", ",
+			" ,",
+			",,",
+			"\\n",
+			",,,",
+			",,",
+			" ,",
+			"\\n",
+			"”",
+			"tank_title_tooltip",
+			"variables_panel",
+			"deposito_panel",
+			"dropdownTransparency",
+			"todosTanques",
+			"tab_content",
+			"title",
+			"$scope.graphVariableHistory",
+			"graph_variable",
+			"new_graph_data",
+			"tanque_actual",
+			"tanqueActual",
+			"tanque_actual",
+			"updatedata",
+			"var-tendencia",
+			"#var-ten",
+			"var_tendencia",
+			"now",
+			"time",
+			"updateGraph",
+			"restrict",
+			"'build/",
+			"'src/",
+			"]",
+			"[",
+			"APIAuthController",
+			"'false'",
+			"'one'",
+			"_uber",
+			"attache",
+			"createba",
+			"morebut",
+			"text4",
+			"'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\\n",
+			"\\t",
+			"",
+			"src",
+			"\": \"*\",",
+			"\"",
+			", ",
+			"",
+			",",
+			"",
+			" ",
+			",",
+			"/Users/GrmnPptr/Documents/Apps/PHP",
+			"localhost/venubi",
+			"",
+			"apt-get install -y",
+			"",
+			"$element",
+			",",
+			",,",
+			",",
+			"progreso()",
+			"tanques",
+			"allTanques",
+			"tanqueActual",
+			"varPrincipal",
+			"$scope.tanques()",
+			"arguments",
+			"variables",
+			"'",
+			"socket",
+			",",
+			"asd",
+			"\"",
+			"$tank_title_tooltip",
+			"$variables_panel",
+			"$deposito_panel",
+			"$dropdownTransparency",
+			"$todosTanques",
+			"$tab_content",
+			"graphVariableHistory",
+			"$scope.graphVariableHistory",
+			"$scope.graphDataViewModel",
+			"tanqueActual",
+			"'./app/assets/build/",
+			"'./app/assets/",
+			"'",
+			"false",
+			"_deliver",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/javascript/controllers/taskCtrl.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								313,
+								313
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "2cea19d9",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"function_name_status_row": 11,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 419.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/stylesheets/main.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7689,
+								7689
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "stylus",
+							"buffer_scroll_name": "c9d93c29",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"function_name_status_row": 447,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/partials/typography.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1282,
+								1283
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "html",
+							"buffer_scroll_name": "ffb2ea83",
+							"function_name_status_row": 33,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/partials/icons.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56079,
+								56079
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "html",
+							"buffer_scroll_name": "8598f9cb",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"function_name_status_row": 864,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 21711.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								266
+							]
+						],
+						"settings":
+						{
+							"auto_name": "ct to server: Unable to find the socket transport",
+							"bs_sintax": "plain text",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"function_name_status_row": 1,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "libs/css/font-awesome.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 25197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								672,
+								862
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "css",
+							"buffer_scroll_name": "b440c67f",
+							"function_name_status_row": 14,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 301.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 137.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "wrapit.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"icons",
+				"public/partials/icons.html"
+			],
+			[
+				"typo",
+				"public/partials/typography.html"
+			],
+			[
+				"mains",
+				"src/stylesheets/main.styl"
+			],
+			[
+				"main",
+				"src/stylesheets/main.styl"
+			],
+			[
+				"dashht",
+				"public/partials/dashboard.html"
+			],
+			[
+				"aaminjs",
+				"public/assets/javascript/application.min.js"
+			],
+			[
+				"charts",
+				"public/partials/charts.html"
+			],
+			[
+				"dashb",
+				"public/partials/dashboard.html"
+			],
+			[
+				"mainsty",
+				"src/stylesheets/main.styl"
+			],
+			[
+				"dashhtml",
+				"public/partials/dashboard.html"
+			],
+			[
+				"gruntfi",
+				"Gruntfile.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"dashbht",
+				"public/partials/dashboard.html"
+			],
+			[
+				"gruntf",
+				"Gruntfile.js"
+			],
+			[
+				"task",
+				"public/partials/tasks.html"
+			],
+			[
+				"appjs",
+				"src/javascript/app.js"
+			],
+			[
+				"form",
+				"public/partials/forms.html"
+			],
+			[
+				"tablesh",
+				"public/partials/tables.html"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"layo",
+				"views/layout.ejs"
+			],
+			[
+				"dashboard",
+				"public/partials/dashboard.html"
+			],
+			[
+				"dashboa",
+				"views/dashboard.ejs"
+			],
+			[
+				"main.",
+				"src/stylesheets/main.styl"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"coreserverconfigin",
+				"core/server/config/index.js"
+			],
+			[
+				"routes",
+				"app/routes.php"
+			],
+			[
+				"filte",
+				"app/filters.php"
+			],
+			[
+				"logincon",
+				"app/controllers/LoginController.php"
+			],
+			[
+				"filter",
+				"app/filters.php"
+			],
+			[
+				"route",
+				"app/routes.php"
+			],
+			[
+				"controller",
+				"system/engine/controller.php"
+			],
+			[
+				"vq2-admin_controller_common_header.php",
+				"vqmod/vqcache/vq2-admin_controller_common_header.php"
+			],
+			[
+				"vagrant",
+				"Vagrantfile"
+			],
+			[
+				"mongoo",
+				"models/mongoose.js"
+			],
+			[
+				"pollcon",
+				"api/controllers/PollController.js"
+			],
+			[
+				"usercon",
+				"api/controllers/UserController.js"
+			],
+			[
+				"mongo",
+				"models/mongoose.js"
+			],
+			[
+				"inde",
+				"demo/index.html"
+			],
+			[
+				"vertanqu",
+				"app/views/app/ver_tanque.blade.php"
+			],
+			[
+				"appcon",
+				"app/controllers/AppController.php"
+			],
+			[
+				"datdirec",
+				"app/assets/js/directive/DateTimePickerDirective.js"
+			],
+			[
+				"histblade",
+				"app/views/app/historial_tanque.blade.php"
+			],
+			[
+				"landin",
+				"app/views/layouts/landing.blade.php"
+			],
+			[
+				"maste",
+				"app/views/layouts/master.blade.php"
+			],
+			[
+				"master",
+				"app/views/layouts/master.blade.php"
+			],
+			[
+				"tanquehel",
+				"app/assets/js/factory/tanqueHelper.js"
+			],
+			[
+				"tanqueclas",
+				"app/assets/js/models/Tanque.class.js"
+			],
+			[
+				"vertanquecon",
+				"app/assets/js/controllers/VerTanqueController.js"
+			],
+			[
+				"vertanqbla",
+				"app/views/app/ver_tanque.blade.php"
+			],
+			[
+				"apiv1",
+				"app/controllers/APIV1Controller.php"
+			],
+			[
+				"varclas",
+				"app/assets/js/models/Variable.class.js"
+			],
+			[
+				"vertanbla",
+				"app/views/app/ver_tanque.blade.php"
+			],
+			[
+				"dash",
+				"app/views/app/dashboard.blade.php"
+			],
+			[
+				"das",
+				"app/assets/js/controllers/DashboardCtrl.js"
+			],
+			[
+				"tanquehe",
+				"app/assets/js/factory/tanqueHelper.js"
+			],
+			[
+				"home",
+				"app/controllers/HomeController.php"
+			],
+			[
+				"verta",
+				"app/assets/js/controllers/VerTanqueController.js"
+			],
+			[
+				"vertaqu",
+				"app/assets/js/controllers/VerTanqueController.js"
+			],
+			[
+				"variableclas",
+				"app/assets/js/models/Variable.class.js"
+			],
+			[
+				"vertanblade",
+				"app/views/app/ver_tanque.blade.php"
+			],
+			[
+				"tanqueca",
+				"app/assets/js/models/Tanque.class.js"
+			],
+			[
+				"vertanq",
+				"app/assets/js/controllers/VerTanqueController.js"
+			],
+			[
+				"tanquecl",
+				"app/assets/js/models/TanqueClass.js"
+			],
+			[
+				"tanquedata",
+				"app/assets/js/factory/tanqueData.js"
+			],
+			[
+				"apiv",
+				"app/controllers/APIV1Controller.php"
+			],
+			[
+				"dashapi",
+				"app/controllers/DashboardAPIController.php"
+			],
+			[
+				"dashboctr",
+				"app/assets/js/controllers/DashboardCtrl.js"
+			],
+			[
+				"appdashbbla",
+				"app/views/app/dashboard.blade.php"
+			],
+			[
+				"vertanqueblade",
+				"app/views/app/ver_tanque.blade.php"
+			],
+			[
+				"facroyjs",
+				"app/assets/js/factory/SocketIOFactory.js"
+			],
+			[
+				"fonta",
+				"public/css/font-awesome.css"
+			],
+			[
+				"estilo",
+				"app/assets/css/estilo.styl"
+			],
+			[
+				"mastbla",
+				"app/views/layouts/master.blade.php"
+			],
+			[
+				"vertan",
+				"app/views/app/ver_tanque.blade.php"
+			],
+			[
+				"vertaq",
+				"app/assets/js/controllers/VerTanqueController.js"
+			],
+			[
+				"vetanq",
+				"app/assets/js/controllers/VerTanqueController.js"
+			],
+			[
+				"apiaut",
+				"app/controllers/APIAuthController.php"
+			],
+			[
+				"basecon",
+				"app/controllers/BaseController.php"
+			],
+			[
+				"appcont",
+				"app/controllers/AppController.php"
+			],
+			[
+				"direc",
+				"app/assets/js/VerTanqueDirective.js"
+			],
+			[
+				"masterbl",
+				"app/views/layouts/master.blade.php"
+			],
+			[
+				"vertanqubla",
+				"app/views/app/ver_tanque.blade.php"
+			],
+			[
+				"landingblade",
+				"app/views/layouts/landing.blade.php"
+			],
+			[
+				"directive",
+				"app/assets/js/VerTanqueDirective.js"
+			],
+			[
+				"vertancon",
+				"app/assets/js/VerTanqueController.js"
+			],
+			[
+				"appctr",
+				"app/assets/js/AppCtrl.js"
+			],
+			[
+				"vertanquedi",
+				"app/assets/js/VerTanqueDirective.js"
+			],
+			[
+				"variablecla",
+				"app/assets/js/VariableClass.js"
+			],
+			[
+				"varia",
+				"app/assets/js/VariableClass.js"
+			],
+			[
+				"mastebla",
+				"app/views/layouts/master.blade.php"
+			],
+			[
+				"variabl",
+				"app/assets/js/VariableClass.js"
+			],
+			[
+				"vertanbld",
+				"app/views/app/ver_tanque.blade.php"
+			],
+			[
+				"vertabla",
+				"vendor/doctrine/dbal/lib/Doctrine/DBAL/Event/SchemaAlterTableEventArgs.php"
+			],
+			[
+				"homecon",
+				"app/controllers/HomeController.php"
+			],
+			[
+				"pho",
+				"app/models/Photo.php"
+			],
+			[
+				"indeblade",
+				"app/views/home/index.blade.php"
+			],
+			[
+				"mainbla",
+				"app/views/layouts/main.blade.php"
+			],
+			[
+				"layomain",
+				"app/views/layouts/main.blade.php"
+			],
+			[
+				"photon",
+				"app/controllers/PhotosController.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"variablclas",
+				"src/js/VariableClass.js"
+			],
+			[
+				"commons",
+				"public/js/iosslider/common.css"
+			],
+			[
+				"conta",
+				"views/home/contact.ejs"
+			],
+			[
+				"hom",
+				"controllers/HomeController.js"
+			],
+			[
+				"contac",
+				"views/home/contact.ejs"
+			],
+			[
+				"abou",
+				"views/home/about.ejs"
+			],
+			[
+				"serv",
+				"views/home/services.ejs"
+			],
+			[
+				"servic",
+				"views/home/services.ejs"
+			],
+			[
+				"foote",
+				"views/footer.ejs"
+			],
+			[
+				"local",
+				"locals.js"
+			],
+			[
+				"heade",
+				"views/header.ejs"
+			],
+			[
+				"loca",
+				"locals.js"
+			],
+			[
+				"foot",
+				"views/footer.ejs"
+			],
+			[
+				"foo",
+				"views/footer.ejs"
+			],
+			[
+				"abo",
+				"views/home/about.ejs"
+			],
+			[
+				"produc",
+				"views/home/products.ejs"
+			],
+			[
+				"pro",
+				"Procfile"
+			],
+			[
+				"servi",
+				"views/home/services.ejs"
+			],
+			[
+				"head",
+				"views/header.ejs"
+			],
+			[
+				"footer",
+				"views/footer.ejs"
+			],
+			[
+				"fote",
+				"views/footer.ejs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

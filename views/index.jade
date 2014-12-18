@@ -1,0 +1,21 @@
+extends layout
+
+block content
+  .row
+    .col-md-12(ng-hide="logs.length > 0")
+        h3.text-center Esperando data ...
+    
+  .row(ng-show="logs.length > 0")
+    .col-md-9
+        .col-sm-6.col-md-3(ng-repeat="d in devices")
+          .thumbnail
+           .caption
+              h3 {{ d.device }}
+              p {{ d.data }}
+    .col-md-3
+        h3 Response Log
+        ul
+            li(ng-repeat="l in logs") 
+                | {{ l.device }}
+                |  
+                span.label.label-success {{ l.data }}
